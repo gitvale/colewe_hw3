@@ -1,0 +1,3 @@
+# Module thirdhomework
+# RPC service class, partial path of RPC policy file
+uni.colewe.client.MyDictService, 03186A723E434B90303E0C0AAF8C9360.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: uni.colewe.client.MyDictService
+path: 03186A723E434B90303E0C0AAF8C9360.gwt.rpc
